@@ -16,10 +16,3 @@
   </a>
 </div>
 </br>
-
-<div align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sallesluisa&label=&color=10&icon=2&pretty=true" />
-</a>
-</div>
-
