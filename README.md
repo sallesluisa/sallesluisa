@@ -1,5 +1,6 @@
-![Hello, world! D](https://user-images.githubusercontent.com/119071975/226146088-219d0556-ed14-4a6e-b09f-43551a06c708.gif)
-
+<div align="center">
+<h1>hey there 🖖🏻</h1>
+</div>
 </br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sallesluisa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  /></br>
